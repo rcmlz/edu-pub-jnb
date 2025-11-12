@@ -1,0 +1,46 @@
+Teilnehmer-ID;Geschlecht;Alter;Zivilstand;Anzahl romantischer Beziehungen;Jetziger Beziehungszustand;NPI-Wert (0-16) ;Extraversion (1-7);Verträglichkeit (1-7);Gewissenhaftigkeit (1-7);Emotionale Stabilität (1-7);Offenheit (1-7) ;Zufriedenheit (-3 - 3 ohne 0)  
+1;Männlich;18;Ledig;2;Single;2;4;6;3;5;5.5;1.4
+2;Weiblich;19;Verwitwet;1;Vergeben ;9;5.5;6.5;5;4;5.5;2.133333333
+3;Weiblich;18;Ledig;1;Single;2;4;5;6;5.5;4.5;1.866666667
+4;Weiblich;19;Ledig;1;Single;0;4;4.5;5.5;6;5;2.133333333
+5;Weiblich;18;Ledig;2;Vergeben ;2;6;6;5;6;6;-3
+6;Weiblich;18;Ledig;1;Vergeben ;1;6;6.5;5;5.5;5.5;2.733333333
+7;Männlich;18;Ledig;1;Single;3;3;4;2.5;3.5;5.5;0.266666667
+8;Männlich;19;Ledig;1;Single;6;5;5.5;4.5;4;4;1
+9;Männlich;18;Ledig;1;Single;6;3.5;5.5;3.5;5.5;6;1.933333333
+10;Männlich;18;Ledig;1;Vergeben ;10;5;4;7;5.5;4;2.933333333
+11;Männlich;24;Ledig;1;Vergenen;7;6.5;6;6.5;6;6.5;2.2
+12;Männlich;19;Ledig;3;Vergeben ;14;5.5;4;4.5;5.5;5.5;1.533333333
+13;Männlich;19;Ledig;2;Single;10;7;6;5.5;5.5;6;0.333333333
+14;Weiblich;17;Ledig;1;Single;8;5.5;5;7;5.5;5;1.8
+15;Männlich;20;Ledig;2;Single;3;4;6;4.5;6;6.5;2.266666667
+16;Weiblich;17;Ledig;1;Single;4;5;6;6.5;4;5.5;2.6
+17;Weiblich;18;Ledig;1;Vergeben ;9;2.5;6;7;5.5;5;2.466666667
+18;Männlich;19;Ledig;2;Vergeben ;7;4.5;5.5;6.5;6.5;6;3
+19;Männlich;17;Ledig;1;Vergeben ;1;5;6.5;5;4.5;5;2.066666667
+20;Männlich;26;Ledig;2;Vergeben ;3;6.5;6;6;6.5;6.5;2.733333333
+21;Männlich;18;Ledig;1;Vergeben ;4;3;6.5;3;6;6;2.666666667
+22;Weiblich;18;Ledig;1;Single;5;6;6;6;5.5;6;1.8
+23;Männlich;20;Ledig;1;Vergeben ;6;5.5;6.5;6.5;6;5;2.8
+24;Männlich;18;Ledig;1;Vergeben ;8;6;6;6.5;6;5;2.8
+25;Weiblich;18;Ledig;2;Vergeben ;4;6;6.5;7;6;6;1.6
+26;Männlich;19;Ledig;1;Vergeben ;9;5.5;3.5;5.5;5.5;6;1.4
+27;Männlich;22;Ledig;2;Vergeben ;2;4.5;6;5;3.5;5;2.466666667
+28;Männlich;26;Ledig;2;Vergeben ;6;3;5.5;4.5;5;3.5;1.933333333
+29;Männlich;21;Ledig;1;Single;4;3;5.5;3.5;4.5;5;3
+30;Männlich;21;Ledig;1;Vergeben ;2;3;6;7;4.5;5;2.533333333
+31;Männlich;23;Ledig;2;Vergeben ;2;3;4.5;4.5;5.5;5;2.333333333
+32;Männlich;21;Ledig;1;Vergeben ;3;3.5;4.5;5;6;5.5;2
+33;Männlich;25;Ledig;3;Vergeben ;1;2.5;5.5;5;4;5;2.333333333
+34;Männlich;24;Ledig;1;Vergeben ;0;2.5;6;5.5;5.5;4;1.933333333
+35;Männlich;26;Verwitwet;1;Vergeben ;7;2.5;6.5;7;6.5;5.5;3
+36;Weiblich;24;Ledig;1;Single;4;6;6.5;5.5;4.5;6.5;0.733333333
+37;Männlich;24;Ledig;2;Single;11;3;4.5;4;7;5.5;0.533333333
+38;Weiblich;18;Ledig;2;Vergeben ;0;5;6;5.5;5;6.5;2.733333333
+39;Weiblich;21;Ledig;1;Single;13;6;5;4;5;6.5;2.8
+40;Weiblich;17;Ledig;2;Vergeben ;4;6;6;6;6;6.5;2.866666667
+41;Weiblich;22;Ledig;2;Vergeben ;0;2;6.5;6.5;3.5;4;2.666666667
+42;Weiblich;19;Ledig;1;Vergeben ;2;3;6.5;6;3.5;5;2.933333333
+43;Weiblich;19;Ledig;1;Single;4;3.5;6;5.5;5.5;4.5;2
+44;Weiblich;18;Ledig;1;Single;9;6;6;3.5;5.5;6;0.933333333
+45;Weiblich;18;Ledig;1;Vergeben ;9;5.5;4.5;5;4;5.5;0.8
