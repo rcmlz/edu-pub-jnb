@@ -1,0 +1,140 @@
+,Month-Year,Active Users,os
+0,November 2025,467026029,Windows
+1,October 2025,449114533,Windows
+2,September 2025,266679623,Windows
+3,October 2025,228510827,iOS
+4,November 2025,213381305,iOS
+5,September 2025,194588250,iOS
+6,October 2025,120162761,Android
+7,November 2025,113528438,Android
+8,November 2025,108908722,Macintosh
+9,September 2025,102336186,Android
+10,October 2025,93221914,Macintosh
+11,September 2025,81189746,Macintosh
+12,December 2025,78528732,Windows
+13,November 2025,49161949,Linux
+14,October 2025,46316402,Linux
+15,September 2025,42153357,Linux
+16,December 2025,37329664,iOS
+17,December 2025,20845678,Macintosh
+18,December 2025,19200258,Android
+19,October 2025,15779371,Chrome OS
+20,November 2025,14011035,Chrome OS
+21,September 2025,12501390,Chrome OS
+22,December 2025,5911009,Linux
+23,December 2025,3249379,Chrome OS
+24,October 2025,46690,Win32
+25,November 2025,44885,Win32
+26,September 2025,33377,Win32
+27,September 2025,14442,Fuchsia
+28,November 2025,14005,BlackBerry
+29,October 2025,13862,BlackBerry
+30,September 2025,11560,BlackBerry
+31,October 2025,10585,Tizen
+32,October 2025,10475,Fuchsia
+33,November 2025,10056,Tizen
+34,September 2025,9938,Firefox OS
+35,November 2025,9794,Fuchsia
+36,September 2025,8323,Tizen
+37,October 2025,7720,Firefox OS
+38,November 2025,7141,Firefox OS
+39,September 2025,5792,MacOS
+40,December 2025,4574,Win32
+41,October 2025,3848,UNIX
+42,October 2025,3296,Playstation 4
+43,November 2025,3232,UNIX
+44,November 2025,3161,Playstation 4
+45,September 2025,2900,UNIX
+46,September 2025,2697,Playstation 4
+47,October 2025,2471,MacOS
+48,November 2025,2176,MacOS
+49,December 2025,1273,Tizen
+50,December 2025,985,Firefox OS
+51,December 2025,937,Fuchsia
+52,September 2025,822,FreeBSD
+53,November 2025,778,FreeBSD
+54,December 2025,647,MacOS
+55,October 2025,584,FreeBSD
+56,November 2025,578,Windows Phone
+57,September 2025,555,Windows Phone
+58,October 2025,453,OS/2
+59,November 2025,436,OS/2
+60,December 2025,422,BlackBerry
+61,September 2025,405,OS/2
+62,October 2025,404,OpenBSD
+63,November 2025,401,OpenBSD
+64,December 2025,395,UNIX
+65,December 2025,368,Playstation 4
+66,September 2025,345,OpenBSD
+67,November 2025,246,Linux x86_64
+68,October 2025,244,Windows Phone
+69,November 2025,240,Unknown
+70,December 2025,205,FreeBSD
+71,October 2025,151,Unknown
+72,December 2025,147,Windows Phone
+73,October 2025,142,SymbianOS
+74,October 2025,140,Linux x86_64
+75,October 2025,136,PalmOS
+76,November 2025,134,PalmOS
+77,September 2025,132,Mac OS
+78,September 2025,126,SymbianOS
+79,November 2025,118,Nokia
+80,September 2025,116,Unknown
+81,September 2025,109,PalmOS
+82,November 2025,107,NetBSD
+83,November 2025,103,SymbianOS
+84,September 2025,93,NetBSD
+85,September 2025,79,Xbox
+86,November 2025,77,OHOS
+87,October 2025,73,Xbox
+88,December 2025,73,Linux x86_64
+89,October 2025,71,Nokia
+90,October 2025,68,NetBSD
+91,November 2025,63,Xbox
+92,December 2025,61,OS/2
+93,September 2025,58,Linux armv8l
+94,October 2025,57,Sony
+95,November 2025,57,TECNO/KJ5-OP/TECNO-KJ5:13/TP1A.220624.014/250115V2001:user/release-keys
+96,December 2025,57,OpenBSD
+97,October 2025,52,OHOS
+98,November 2025,44,Samsung
+99,November 2025,43,Infinix/X669D-GL/Infinix-X669D:12/SP1A.210812.016/GL-20240725V419:user/release-keys
+100,September 2025,42,Sony
+101,September 2025,40,OHOS
+102,September 2025,38,Nokia
+103,September 2025,36,Linux x86_64
+104,October 2025,32,Samsung
+105,November 2025,30,Sony
+106,September 2025,29,Samsung
+107,November 2025,27,motorola/fogona_g/fogona:14/U1TF34.100-35-14/98d43-1082f4:user/release-keys
+108,October 2025,22,SunOS
+109,December 2025,22,Xbox
+110,October 2025,21,Mac OS
+111,December 2025,21,PalmOS
+112,December 2025,18,NetBSD
+113,October 2025,17,Playstation 3
+114,November 2025,16,SunOS
+115,September 2025,15,SunOS
+116,October 2025,15,motorola/fogona_g/fogona:14/U1TF34.100-35-14/98d43-1082f4:user/release-keys
+117,September 2025,14,Nintendo Wii
+118,October 2025,13,AGM/AGM_H6_EEA/AGM_H6:13/TP1A.220624.014/30613:user/release-keys
+119,December 2025,13,SymbianOS
+120,September 2025,12,Linux armv7l
+121,November 2025,12,TECNO/BG7-OP/TECNO-BG7:13/TP1A.220624.014/250619V2502:user/release-keys
+122,December 2025,12,Nokia
+123,October 2025,10,MacIntel
+124,October 2025,10,Win64
+125,November 2025,10,MOT
+126,November 2025,9,windows
+127,December 2025,9,OHOS
+128,December 2025,9,Sony
+129,September 2025,7,MOT
+130,September 2025,7,motorola/sofia_retail/sofia:11/RPM31.Q1-54-13/9a339:user/release-keys
+131,November 2025,7,Playstation 3
+132,November 2025,7,motorola/sofia_retail/sofia:11/RPM31.Q1-54-13/9a339:user/release-keys
+133,September 2025,6,BeOS
+134,October 2025,6,MOT
+135,October 2025,6,Nintendo Wii
+136,October 2025,6,samsung/gts8wifixx/gts8wifi:15/AP3A.240905.015.A2/X700XXU9DYDC:user/release-keys
+137,December 2025,6,Samsung
+138,December 2025,6,Unknown
