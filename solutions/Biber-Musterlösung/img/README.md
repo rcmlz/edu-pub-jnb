@@ -1,1 +1,0 @@
-Hier speichern wir alle erzeugten Bilder ab - falls wir diese mal in einer anderen Präsentation oder Textverarbeitung verwenden wollen.
