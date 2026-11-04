@@ -18,3 +18,4 @@ lib/.precomp
 .DS_Store
 
 *.log
+.virtual_documents/
